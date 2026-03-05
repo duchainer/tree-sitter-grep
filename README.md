@@ -81,7 +81,7 @@ It's worth reading the [tree-sitter query docs](https://tree-sitter.github.io/tr
 as a starting point
 
 Then for figuring out what the relevant tree-sitter AST structure is for a query you'd like
-to write, a tree-sitter "playground" is invaluable, eg the [interactive online one](https://tree-sitter.github.io/tree-sitter/playground)
+to write, a tree-sitter "playground" is invaluable, eg the [interactive online one](https://tree-sitter.github.io/tree-sitter/7-playground.html)
 or I use neovim's `:InspectTree`
 
 In my experience while tree-sitter queries are a solid starting point,
